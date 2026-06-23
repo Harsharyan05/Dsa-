@@ -1,3 +1,4 @@
+//Right Triangle Numbers
 #include<iostream>
 using namespace std;
 
