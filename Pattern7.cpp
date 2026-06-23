@@ -1,3 +1,4 @@
+//Continuous Numbers Triangle
 #include<iostream>
 using namespace std;
 
