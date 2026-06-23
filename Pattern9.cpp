@@ -1,3 +1,4 @@
+//Inverted Number Triangle
 #include<iostream>
 using namespace std;
 
