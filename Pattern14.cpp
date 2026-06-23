@@ -1,3 +1,4 @@
+// Right inclined traingle 
 #include<iostream>
 using namespace std;
 
