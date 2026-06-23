@@ -1,3 +1,4 @@
+//Inverted Star Triangle
 #include<iostream>
 using namespace std;
 
