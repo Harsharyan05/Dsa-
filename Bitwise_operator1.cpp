@@ -1,3 +1,4 @@
+//Check if a number is odd or even using bitwise operator
 #include<iostream>
 using namespace std;
 
