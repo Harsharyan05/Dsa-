@@ -1,3 +1,4 @@
+//Check whether a number is power of 2
 #include<iostream>
 using namespace std;
 
