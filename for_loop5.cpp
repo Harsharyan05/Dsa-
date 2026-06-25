@@ -1,3 +1,4 @@
+//Pattern: Right triangle of numbers
 #include<iostream>
 using namespace std;
 
