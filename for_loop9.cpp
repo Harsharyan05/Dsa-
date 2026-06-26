@@ -1,3 +1,4 @@
+//Check whether a number belongs to Fibonacci series
 #include<iostream>
 using namespace std;
 
