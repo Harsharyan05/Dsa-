@@ -1,3 +1,4 @@
+// LCM using functions
 #include<iostream>
 using namespace std;
 
