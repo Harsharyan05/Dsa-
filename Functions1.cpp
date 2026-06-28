@@ -1,3 +1,4 @@
+// Calculate nCr using Functions
 #include<iostream>
 using namespace std;
 
