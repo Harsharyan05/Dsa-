@@ -1,3 +1,4 @@
+// Armstrong Number using Functions
 #include<iostream>
 using namespace std;
 
