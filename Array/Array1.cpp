@@ -1,3 +1,4 @@
+//Input and Print an Array
 #include<iostream>
 using namespace std;
 
